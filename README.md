@@ -1,0 +1,2 @@
+# sql-load-commands
+*loadData.sql is only an example, please replace '~/path-to-loadfile/loadfile.csv' with the path to your local loadfile. This file should be structured as a CSV with the same shape as the DB table you are loading to.*
